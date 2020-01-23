@@ -1,6 +1,4 @@
-﻿using ApiPNB.entities;
-using ApiPNB.InfraInstrutura.InfraInstrutura;
-using ApiPNB.Interfaces;
+﻿using ApiPNB.Interfaces;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.Mvc;
