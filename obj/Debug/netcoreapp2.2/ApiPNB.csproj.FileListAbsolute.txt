@@ -1,0 +1,14 @@
+/home/fredraj/Documents/EquipeVoz/ApiPNB/bin/Debug/netcoreapp2.2/ApiPNB.deps.json
+/home/fredraj/Documents/EquipeVoz/ApiPNB/bin/Debug/netcoreapp2.2/ApiPNB.runtimeconfig.json
+/home/fredraj/Documents/EquipeVoz/ApiPNB/bin/Debug/netcoreapp2.2/ApiPNB.runtimeconfig.dev.json
+/home/fredraj/Documents/EquipeVoz/ApiPNB/bin/Debug/netcoreapp2.2/ApiPNB.dll
+/home/fredraj/Documents/EquipeVoz/ApiPNB/bin/Debug/netcoreapp2.2/ApiPNB.pdb
+/home/fredraj/Documents/EquipeVoz/ApiPNB/obj/Debug/netcoreapp2.2/ApiPNB.csprojAssemblyReference.cache
+/home/fredraj/Documents/EquipeVoz/ApiPNB/obj/Debug/netcoreapp2.2/ApiPNB.csproj.CoreCompileInputs.cache
+/home/fredraj/Documents/EquipeVoz/ApiPNB/obj/Debug/netcoreapp2.2/ApiPNB.RazorAssemblyInfo.cache
+/home/fredraj/Documents/EquipeVoz/ApiPNB/obj/Debug/netcoreapp2.2/ApiPNB.RazorAssemblyInfo.cs
+/home/fredraj/Documents/EquipeVoz/ApiPNB/obj/Debug/netcoreapp2.2/ApiPNB.AssemblyInfoInputs.cache
+/home/fredraj/Documents/EquipeVoz/ApiPNB/obj/Debug/netcoreapp2.2/ApiPNB.AssemblyInfo.cs
+/home/fredraj/Documents/EquipeVoz/ApiPNB/obj/Debug/netcoreapp2.2/ApiPNB.RazorTargetAssemblyInfo.cache
+/home/fredraj/Documents/EquipeVoz/ApiPNB/obj/Debug/netcoreapp2.2/ApiPNB.dll
+/home/fredraj/Documents/EquipeVoz/ApiPNB/obj/Debug/netcoreapp2.2/ApiPNB.pdb
