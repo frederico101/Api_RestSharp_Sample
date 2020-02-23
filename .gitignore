@@ -97,7 +97,6 @@ ipch/
 
 # TFS 2012 Local Workspace
 $tf/
-
 # Guidance Automation Toolkit
 *.gpState
 
@@ -273,7 +272,7 @@ __pycache__/
 # tools/
 
 ### VisualStudioCode ###
-.vscode/*
+*.vscode/
 !.vscode/settings.json
 !.vscode/tasks.json
 !.vscode/launch.json
